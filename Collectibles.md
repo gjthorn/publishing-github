@@ -12,6 +12,6 @@ We have the largest inventory of fan favorite items on the web. And if we don't 
 
 https://user-images.githubusercontent.com/20652990/194767486-c6e0b442-8dda-4f58-8731-ce4135da2af3.mp4
 
-# Disclaimer
+## Disclaimer
 
 Stargazers Aliens is a fictitious company created by <a class="text-secondary" href="https://www.linkedin.com/">LinkedIn Corporation</a>, or its affiliates, solely for the creation and development of <a class="text-secondary" href="https://www.linkedin.com/learning/">educational training</a> materials. Any resemblance to real products or services is purely coincidental. Information provided about the products or services is also fictitious and should not be construed as representative of actual products or services on the market in a similar product or service category.
